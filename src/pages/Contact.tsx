@@ -28,14 +28,14 @@ const Contact = () => {
     {
       name: "GitHub",
       icon: Github,
-      url: "https://github.com/jaygurav",
-      handle: "@jaygurav",
+      url: "https://github.com/JayG1711",
+      handle: "@JayG1711",
     },
     {
       name: "LinkedIn",
       icon: Linkedin,
-      url: "https://linkedin.com/in/jaygurav",
-      handle: "linkedin.com/in/jaygurav",
+      url: "https://www.linkedin.com/in/jay-gurav/",
+      handle: "linkedin.com/in/jay-gurav",
     },
     {
       name: "TryHackMe",
@@ -46,8 +46,8 @@ const Contact = () => {
     {
       name: "Email",
       icon: Mail,
-      url: "mailto:jaygurav@gmail.com",
-      handle: "jaygurav@gmail.com",
+      url: "mailto:jaygurav2004@gmail.com",
+      handle: "jaygurav2004@gmail.com",
     },
   ];
 
