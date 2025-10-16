@@ -19,7 +19,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/jaygurav-cyber-hub">
         <Routes>
           <Route element={<Layout />}>
             <Route path="/" element={<Home />} />
